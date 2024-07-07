@@ -1,16 +1,22 @@
+Enemies:
+Added enemy player models, they are just angry farmers for now. 
+The red farmer that spawns is a bit bigger that the first farmer.
+
 World:
-Updated colour scheme of the house.
-Changed sized of props and doors.
-Updated the floors.
+Added a living room.
+Kitchen is basically complete.
+Added 3 rooms, 2 bedrooms are basically complete. 
+3rd bedroom is in progress.
+I'll be fixing the floors soon too.
 
 Gameplay adjustments:
-Removed the player model
-Updated player hitbox, it's better than before. (Still working on it.)
+Fixed not being able to buy ammo.
+Increased sprint speed.
+Added boundaries to the map.
 
 Bugs:
-Fixed not being able to reload gun after you buy ammo. 
 Known issue with having a different jump height each time you start the game.
 
 I will update the menus at a later time. 
 I will also update the gun as it's not consistent with the games graphics.
-
+I will also try update the hitbox of the player so you don't randomly spin.
