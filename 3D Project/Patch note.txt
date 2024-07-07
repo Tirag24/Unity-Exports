@@ -1,14 +1,10 @@
 World:
-Updated colour scheme of the house.
-Changed sized of props and doors.
-Updated the floors.
+Changed healing station location to the living room.
 
 Gameplay adjustments:
-Removed the player model
-Updated player hitbox, it's better than before. (Still working on it.)
+N/A
 
 Bugs:
-Fixed not being able to reload gun after you buy ammo. 
 Known issue with having a different jump height each time you start the game.
 
 I will update the menus at a later time. 
