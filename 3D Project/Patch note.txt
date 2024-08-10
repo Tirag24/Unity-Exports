@@ -2,9 +2,14 @@ World:
 Changed healing station location to the living room.
 
 Gameplay adjustments:
-N/A
+Added zombie sounds.
+Added a reload sound. 
 
 Bugs:
+Fixed Round Text showing incorrect values. 
+Reload sound plays when the game is paused. 
+
+
 Known issue with having a different jump height each time you start the game.
 
 I will update the menus at a later time. 
