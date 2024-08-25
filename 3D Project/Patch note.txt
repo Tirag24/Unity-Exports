@@ -1,9 +1,13 @@
 Gameplay adjustments:
-Fixed a bug where the player can go through walls.
-Fixed a bug where the player randomly spins or turns inconsistently (I think).
+Added gun shot sounds!
+Improved reload sounds to play half correctly (see bugs below).
 
 Bugs:
 Reload sound plays when the game is paused. 
+Reload sound does not play when you run out of bullets.
+Reload sound is cancelled when you press R when you are already reloading. 
+Zombies dropping 2 coins instead of one.
+
 Known issue with having a different jump height each time you start the game.
 
 I will update the menus at a later time. 
