@@ -1,7 +1,5 @@
 Gameplay adjustments:
-Reduced volume of zombie sounds, still working on audio slider for player to adjust.
-Fixed a bug where the reload sound is cancelled when you press R to reload when you are already reloading.
-Fixed a bug where the reload sound does not play when you run out of bullets.
+Added volume control for zombies! (only zombies for now)
 
 Bugs:
 Reload sound plays when the game is paused. 
