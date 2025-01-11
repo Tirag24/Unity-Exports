@@ -1,17 +1,12 @@
-WARNING CPU AND GPU USAGE IS REALLY HIGH - Will be investigating and working on fix.
+CPU and GPU usage is fixed!!!
 
 Gameplay adjustments:
-Fixed volume control for zombies. Works as intended now!
+Fixed a bug where zombies occasionally dropping 2 coins instead of one. The red farmer zombies only drop 2 coins, whereas the blue farmers drop 1.
 Adjusting UI for a better look (in progress).
-Added Main Menu music.
-Added a new look for the main menu.
-Red farmer zombies now spawn from round 6.
-The rounds are now continuous.
-Ammo refill now has a 3D model rather than a yellow box.
 
 Bugs:
 Reload sound plays when the game is paused. 
-Zombies occasionally dropping 2 coins instead of one.
+
 Known issue with having a different jump height each time you start the game.
 
 I will also update the gun as it's not consistent with the games graphics.
