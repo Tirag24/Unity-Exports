@@ -1,7 +1,6 @@
-CPU and GPU usage is fixed!!!
-
 Gameplay adjustments:
-Fixed a bug where zombies occasionally dropping 2 coins instead of one. The red farmer zombies only drop 2 coins, whereas the blue farmers drop 1.
+Ammo crates now disapear and randomly spawn around the map. 
+Crosshair now correctly disappears when reloading.
 Adjusting UI for a better look (in progress).
 
 Bugs:
