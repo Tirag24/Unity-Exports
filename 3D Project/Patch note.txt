@@ -1,6 +1,6 @@
 Gameplay adjustments:
-Ammo crates now disapear and randomly spawn around the map. 
-Crosshair now correctly disappears when reloading.
+Added sound effects for collecting coins.
+Hitmarker sounds now no longer cut out when you hit an enemy.
 Adjusting UI for a better look (in progress).
 
 Bugs:
