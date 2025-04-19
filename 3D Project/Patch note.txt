@@ -1,11 +1,10 @@
 Gameplay adjustments:
-Added sound effects for collecting coins.
-Hitmarker sounds now no longer cut out when you hit an enemy.
+Added a roof for the house.
+Installed ceiling lights around the house (some lights are off, and some flicker).
+Fixed red enemies not making zombie sounds.
 Adjusting UI for a better look (in progress).
 
 Bugs:
 Reload sound plays when the game is paused. 
-
 Known issue with having a different jump height each time you start the game.
-
 I will also update the gun as it's not consistent with the games graphics.
