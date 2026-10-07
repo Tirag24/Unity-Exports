@@ -1,0 +1,29 @@
+Added Gears for Both cars
+Player 1 Controls:
+Accelerate: Up Arrow Key
+Turn left/right: Left & Right Arrow Keys
+Brakes: Down Arrow Key
+Shift Up: O
+Shift Down: I
+Boost: U
+Reset Car if upside down: P
+
+Player 2 Controls:
+Accelerate: W
+Turn left/right: A & D
+Brakes: S
+Shift Up: E
+Shift Down: Q
+Boost: T
+Reset Car if upside down: R
+
+Improved AI massively - they are still a bit all over the place but they definitely work now. You can actually collide with them normally now
+Cars are now rear wheel drive
+Brakes now actually work
+
+Known bugs:
+Pitlane is currently broken - speed limit not working
+
+HUD will be updated at a later time
+
+Link to download game: https://drive.google.com/drive/folders/1dXdGw72gI0EG0k7JdyORAR-cueiVfyPN
